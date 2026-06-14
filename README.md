@@ -84,13 +84,14 @@ El proyecto genera:
 ```text
 MonteCarlo-Stock-Simulation/
 │
-├── README.md
-├── Modelo_Log_Normal.ipynb
+├── images/
+│   ├── Probabilidades.png
+│   ├── Real_vs_Umbral.png
+│   └── Simulaciones.png
 │
-└── images/
-    ├── Probabilidades.png
-    ├── Real_vs_Umbral.png
-    └── Simulaciones.png
+├── Modelo_Log_Normal.ipynb
+└──README.md
+
 ```
 
 ---
