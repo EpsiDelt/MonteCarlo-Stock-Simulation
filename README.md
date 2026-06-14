@@ -79,6 +79,22 @@ El proyecto genera:
 
 ---
 
+## Estructura del proyecto
+
+```text
+MonteCarlo-Stock-Simulation/
+│
+├── README.md
+├── Modelo_Log_Normal.ipynb
+│
+└── images/
+    ├── Probabilidades.png
+    ├── Real_vs_Umbral.png
+    └── Simulaciones.png
+```
+
+---
+
 ## Limitaciones
 
 El modelo asume que los rendimientos siguen una distribución normal y que la volatilidad permanece constante durante el horizonte de simulación. Eventos extremos de mercado, cambios estructurales o distribuciones con colas pesadas pueden generar desviaciones respecto a los resultados simulados.
